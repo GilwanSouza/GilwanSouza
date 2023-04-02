@@ -6,7 +6,7 @@ Meu nome é **Gilwan Souza**, estou começado minha carreira como desenvolvedor 
 
 ### Minhas Ferramentas:
 <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Postgres" height="30" width="40" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head-thumbnail.png">
+<img align="center" alt="Postgres" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png">
 
 ---
 
