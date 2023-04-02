@@ -1,4 +1,4 @@
-### Olá, tudo bem? 😁
+### Olá, tudo bem?
 Meu nome é **Gilwan Souza**, estou começado minha carreira como desenvolvedor de software e sou granduando em Sistemas de informação na [UFERSA](https://ufersa.edu.br/)
 - [Acesse meu Linkedin e saiba mais](https://www.linkedin.com/in/gilwan-souza-aa1026220/)
 
