@@ -4,11 +4,11 @@ Meu nome é **Gilwan Souza**, estou começado minha carreira como desenvolvedor 
 
 ### Minhas Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,spring,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,spring)](https://skillicons.dev)
 
 ### Minhas Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,java,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,java,mongodb,postgres)](https://skillicons.dev)
 
 <br>
 
