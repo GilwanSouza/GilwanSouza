@@ -4,8 +4,7 @@ Meu nome é **Gilwan Souza**, estou começado minha carreira como desenvolvedor 
 
 ### Minhas Ferramentas:
 
-<img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" alt="POSTEGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,spring,postgres)](https://skillicons.dev)
 
 ### Minhas Tecnologias:
 
