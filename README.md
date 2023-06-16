@@ -8,7 +8,7 @@ Meu nome é **Gilwan Souza**, estou começado minha carreira como desenvolvedor 
 
 ### Minhas Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,java,mongodb)](https://skillicons.dev)
 
 <br>
 
