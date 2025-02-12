@@ -7,7 +7,7 @@ No momento, estou trabalhando no meu TCC, onde estou desenvolvendo um site utili
 
 ### Minhas Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,spring,django,colab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,spring,django,googlecolab,wordpress)](https://skillicons.dev)
 
 ### Minhas Tecnologias:
 
