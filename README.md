@@ -1,5 +1,6 @@
 
-###Olá! Eu sou Gilwan Souza 👋
+### Olá! Eu sou Gilwan Souza 👋
+
 Sou um desenvolvedor de software em formação, apaixonado por tecnologia, inovação, IHC, tecnologias para saúde e muito mais. Atualmente, sou graduando em Sistemas de Informação na UFERSA e estou focado em aprimorar minhas habilidades em desenvolvimento web e engenharia de software.
 
 No momento, estou trabalhando no meu TCC, onde estou desenvolvendo um site utilizando Django. O objetivo desse projeto é criar uma cartilha digital para gestantes, oferecendo informações úteis e acessíveis para auxiliar durante a gravidez.
